@@ -1,0 +1,69 @@
+[debug] [2023-12-30T09:56:58.519Z] ----------------------------------------------------------------------
+[debug] [2023-12-30T09:56:58.523Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\deepa\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2023-12-30T09:56:58.524Z] CLI Version:   13.0.2
+[debug] [2023-12-30T09:56:58.524Z] Platform:      win32
+[debug] [2023-12-30T09:56:58.524Z] Node Version:  v20.10.0
+[debug] [2023-12-30T09:56:58.524Z] Time:          Sat Dec 30 2023 15:26:58 GMT+0530 (India Standard Time)
+[debug] [2023-12-30T09:56:58.525Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-30T09:56:58.529Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2023-12-30T09:56:59.273Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2023-12-30T09:56:59.274Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=1063781385&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2023-12-30T09:57:04.681Z] Error: spawn cmd ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-12-30T09:57:33.871Z] ----------------------------------------------------------------------
+[debug] [2023-12-30T09:57:33.876Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\deepa\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2023-12-30T09:57:33.877Z] CLI Version:   13.0.2
+[debug] [2023-12-30T09:57:33.877Z] Platform:      win32
+[debug] [2023-12-30T09:57:33.877Z] Node Version:  v20.10.0
+[debug] [2023-12-30T09:57:33.878Z] Time:          Sat Dec 30 2023 15:27:33 GMT+0530 (India Standard Time)
+[debug] [2023-12-30T09:57:33.878Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=1049663931&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2023-12-30T09:57:36.003Z] Error: spawn cmd ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-12-30T10:00:41.491Z] ----------------------------------------------------------------------
+[debug] [2023-12-30T10:00:41.496Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\deepa\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2023-12-30T10:00:41.496Z] CLI Version:   13.0.2
+[debug] [2023-12-30T10:00:41.497Z] Platform:      win32
+[debug] [2023-12-30T10:00:41.498Z] Node Version:  v20.10.0
+[debug] [2023-12-30T10:00:41.498Z] Time:          Sat Dec 30 2023 15:30:41 GMT+0530 (India Standard Time)
+[debug] [2023-12-30T10:00:41.498Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=444516411&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2023-12-30T10:00:43.390Z] Error: spawn cmd ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[error] 
+[error] Error: An unexpected error has occurred.
